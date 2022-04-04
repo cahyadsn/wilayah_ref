@@ -8,3 +8,4 @@
 | 04 | Permendagri No 72 Tahun 2019         |  bn1327-2019.pdf       |
 | 05 | Kepmendagri No. 146.1-4717 - 2020    |  km146.1-4717-2020.pdf |
 | 06 | Permendagri No 58 Tahun 2021         |  bn1391-2021.pdf       |
+| 07 | Kepmendagri No 050-145 Tahun 2022    |  km050-145-2022.pdf    |
