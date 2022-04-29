@@ -10,6 +10,17 @@ Referensi kode wilayah administrasi pemerintahan Republik Indonesia
 - Kode dan Data Wilayah Administrasi Pemerintahan (Permendagri No.56-2015) www.kemendagri.go.id/pages/data-wilayah (Berita Negara Republik Indonesia Tahun 2015 Nomor 1045, Ditetapkan pada tanggal 29 Juni 2015)
 - Kode dan Data Wilayah Administrasi Pemerintahan (Permendagri No.39-2015) (Berita Negara Republik Indonesia Tahun 2015 Nomor 312, Ditetapkan pada tanggal 24 Februari 2015)
 
+## Daftar Dokumen
+
+| No | Peraturan                            | file                   |
+|---:|-------------------------------------:|-----------------------:|
+| 01 | Permendagri No 39 Tahun 2015         |  bn0312-2015.pdf       |
+| 02 | Permendagri No 56 Tahun 2015         |  bn1045-2015.pdf       |
+| 03 | Permendagri No 137 Tahun 2017        |  bn1955-2017.pdf       |
+| 04 | Permendagri No 72 Tahun 2019         |  bn1327-2019.pdf       |
+| 05 | Kepmendagri No. 146.1-4717 - 2020    |  km146.1-4717-2020.pdf |
+| 06 | Permendagri No 58 Tahun 2021         |  bn1391-2021.pdf       |
+| 07 | Kepmendagri No 050-145 Tahun 2022    |  km050-145-2022.pdf    |
 
 ## Donasi
 - untuk donasi via Bank Syariah Indonesia (BSI) 821-342-5550
