@@ -2,9 +2,9 @@
 Referensi kode wilayah administrasi pemerintahan Republik Indonesia
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/cahyadsn/wilayah.svg)](https://github.com/cahyadsn/wilayah_ref/issues)
-[![GitHub forks](https://img.shields.io/github/forks/cahyadsn/wilayah.svg)](https://github.com/cahyadsn/wilayah_ref/network)
-[![GitHub stars](https://img.shields.io/github/stars/cahyadsn/wilayah.svg)](https://github.com/cahyadsn/wilayah_ref/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/cahyadsn/wilayah_ref.svg)](https://github.com/cahyadsn/wilayah_ref/issues)
+[![GitHub forks](https://img.shields.io/github/forks/cahyadsn/wilayah_ref.svg)](https://github.com/cahyadsn/wilayah_ref/network)
+[![GitHub stars](https://img.shields.io/github/stars/cahyadsn/wilayah_ref.svg)](https://github.com/cahyadsn/wilayah_ref/stargazers)
 [![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg?style=flat)]()
 [![Donate](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](https://paypal.me/cahyadwiana) 
 
