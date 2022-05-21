@@ -11,4 +11,7 @@
 | 07 | Kepmendagri No 050-145 Tahun 2022    |  km050-145-2022.pdf    |
 
 ## Daftar Lampiran 
-- tbd
+
+| No | Lampiran                                 | folder                    |
+|---:|-----------------------------------------:|--------------------------:|
+| 01 | Lamp. Kepmendagri No. 050-145 Tahun 2022 | kemendagri.050-145.th2022 |
