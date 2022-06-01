@@ -10,8 +10,8 @@
 | 06 | Permendagri No 58 Tahun 2021         |  bn1391-2021.pdf       |
 | 07 | Kepmendagri No 050-145 Tahun 2022    |  km050-145-2022.pdf    |
 
-## Daftar Lampiran 
+## Daftar Lampiran
 
 | No | Lampiran                                 | folder                    |
 |---:|-----------------------------------------:|--------------------------:|
-| 01 | Lamp. Kepmendagri No. 050-145 Tahun 2022 | kemendagri.050-145.th2022 |
+| 01 | Lamp. Kepmendagri No. 050-145 Tahun 2022 | lamp/kemendagri.050-145.th2022 |
