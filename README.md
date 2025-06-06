@@ -34,6 +34,9 @@ Referensi kode wilayah administrasi pemerintahan Republik Indonesia
 | 10 | UU Nomor 16 Tahun 2022               | UU Nomor 16 Tahun 2022.pdf |
 | 11 | UU Nomor 29 Tahun 2022               | UU Nomor 29 Tahun 2022.pdf |
 
+## TO DO
+- Keputusan Menteri Dalam Negeri No 300.2.2-2138 Tahun 2025 tentang Pemberian Dan Pemutakhiran Kode, Data Wilayah Administrasi Pemerintahan, Dan Pulau (Ditetapkan pada 25 April 2025)
+
 ## Donasi
 - untuk donasi via Bank Syariah Indonesia (BSI) 821-342-5550
 - untuk donasi via PayPal [https://paypal.me/cahyadwiana]
