@@ -37,6 +37,15 @@ Referensi kode wilayah administrasi pemerintahan Republik Indonesia
 ## TO DO
 - Keputusan Menteri Dalam Negeri No 300.2.2-2138 Tahun 2025 tentang Pemberian Dan Pemutakhiran Kode, Data Wilayah Administrasi Pemerintahan, Dan Pulau (Ditetapkan pada 25 April 2025)
 
-## Donasi
-- untuk donasi via Bank Syariah Indonesia (BSI) 821-342-5550
+## DONASI
+- untuk donasi via transfer
+    - Bank BCA Digital (Blu) (501) 000 576 776 186
+    - Bank Jago (542) 5003 5796 1022
+    - Bank Sinarmas (153) 005 462 4719
+    - Bank Syariah Indonesia (BSI) 821-342-5550
 - untuk donasi via PayPal [https://paypal.me/cahyadwiana]
+- untuk donasi via QRIS CAHYADSN ID1022183125288 :
+
+![screenshot](https://github.com/cahyadsn/wilayah/blob/master/docs/qr_code.cahyadsn.png?raw=true 'Donasi via QRIS CAHYADSN')
+
+
