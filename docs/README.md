@@ -2,6 +2,7 @@
 
 | *Peraturan*                              | *file*                              |
 |:---------------------------------------|:----------------------------------|
+| Kepmendagri No 300.2.2-2430 Tahun 2025 | Kepmendagri_300.2.2-2430_2025.pdf |
 | Kepmendagri No 300.2.2-2138 Tahun 2025 | Kepmendagri_300.2.2-2138_2025.pdf |
 | Kepmendagri No 100.1.1-6117 Tahun 2022 | Kepmendagri_100.1.1-6117_2022.pdf |
 | UU Nomor 29 Tahun 2022                 | UU Nomor 29 Tahun 2022.pdf        |
